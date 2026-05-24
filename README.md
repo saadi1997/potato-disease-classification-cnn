@@ -40,11 +40,5 @@ We use the PlantVillage dataset from Kaggle (potato-only subset: 3 classes, 2,15
 
 ## Repository Contents
 - `notebook/` → training and evaluation notebook
-- `report/` → final project report (PDF)
-- `slides/` → project presentation
-- `models/` → saved model (`.keras`) (optional)
-- `assets/` → figures used in report/slides (optional)
-
-## Acknowledgements
-Tutorial inspiration: Codebasics (Potato Disease Classification series).  
+ 
 Dataset credit: PlantVillage (Kaggle source above).
